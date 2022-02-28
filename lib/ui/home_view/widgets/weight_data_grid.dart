@@ -55,15 +55,19 @@ class WeightDataGrid extends StatelessWidget {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        GestureDetector(
-                          child: const Icon(Icons.edit,
+                        IconButton(
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                          icon: const Icon(Icons.edit,
                               size: 20, color: Colors.white),
-                          onTap: () => onEditTap(currentItem),
+                          onPressed: () => onEditTap(currentItem),
                         ),
-                        GestureDetector(
-                          child: const Icon(Icons.delete,
+                        IconButton(
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                          icon: const Icon(Icons.delete,
                               size: 20, color: Colors.white),
-                          onTap: () => onDeleteTap(currentItem),
+                          onPressed: () => onDeleteTap(currentItem),
                         ),
                       ],
                     ),

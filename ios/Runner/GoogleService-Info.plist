@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1073893085585-3tmi54pnn69ju45j445ig2u0kealhfj4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1073893085585-3tmi54pnn69ju45j445ig2u0kealhfj4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1073893085585-6qcl7r9c9d4jvurh74lt13mg57arabp0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUWYGVrvtKpw5LiUKwlyodmJ_5r3L37pg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1073893085585</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.weightTracker</string>
+	<key>PROJECT_ID</key>
+	<string>task-manager-53a2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>task-manager-53a2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1073893085585:ios:e988b8c5fbc845d8a2ca30</string>
+</dict>
+</plist>
